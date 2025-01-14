@@ -1,3 +1,4 @@
 # firstTopic
 This is my First Class
-Author --Wasif Developer
+<br>
+<b>Author</b> --Wasif Developer
